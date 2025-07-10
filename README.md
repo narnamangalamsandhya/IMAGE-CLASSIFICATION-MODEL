@@ -76,3 +76,7 @@ The process of building an effective model includes selecting the right architec
 As research continues to evolve, new architectures such as Vision Transformers (ViT) and EfficientNet are pushing the boundaries of what’s possible in visual recognition. Coupled with advances in hardware like GPUs and TPUs, image classification will continue to grow in accuracy, speed, and scalability.
 
 In conclusion, image classification is a key pillar of computer vision, providing intelligent solutions to real-world visual problems. With continuous advancements in AI and increasing computational power, its applications and capabilities are bound to expand dramatically in the coming years.
+
+OUTPUT:
+
+<img width="1035" height="242" alt="Image" src="https://github.com/user-attachments/assets/0bfb21fa-7904-4f06-bda3-91ef7c18e916" />
